@@ -1,0 +1,54 @@
+.sender,.load {
+    position: absolute;
+    border: 1px solid #000;
+    border-radius: 6px;
+    padding: 15px;
+    width: 345px;
+    
+}
+.sender {
+    margin-top: 140px;
+}
+.sender h4 {
+    text-align: center;
+}
+.sender form input {
+    width: 320px;
+}
+.sender form {
+    padding-left: 10px;
+}
+input[type="text"], input[type="password"] {
+    height: 30px;
+}
+.form-signin1 {
+    margin: 50px auto;
+}
+.send_m {
+    margin-left: 400px;
+    margin-top: -70px;
+}
+.inp_st {
+    margin-left: 40px;
+}
+.err {
+    color: red;
+    margin-left: 140px;
+    font-size: 16px;
+}
+.for_form_enter {
+    height: 300px;
+    width: 320px;
+    padding-left: 55px;
+    box-sizing: border-box;
+    border-radius: 9px;
+    border: 1px solid #578e66;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,.6);
+}
+#pause {
+    margin-left: 2px;
+    width: 40px;
+}
+.pause {
+    margin-left: 30px;
+}

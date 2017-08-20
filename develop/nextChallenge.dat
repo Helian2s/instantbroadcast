@@ -1,0 +1,280 @@
+ƒRKùC°4Ëpä"ÈíÁc§Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380995298664@s.whatsapp.net
+            [id] => message-1424275963-1
+            [offline] => 0
+            [t] => 1424275972
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380995298664@s.whatsapp.net
+            [id] => message-1424275963-2
+            [offline] => 0
+            [t] => 1424275972
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380995298664@s.whatsapp.net
+            [id] => message-1424275963-2
+            [offline] => 0
+            [t] => 1424285916
+        )
+
+    [children] => Array
+        (
+            [0] => ProtocolNode Object
+                (
+                    [tag:ProtocolNode:private] => list
+                    [attributeHash:ProtocolNode:private] => Array
+                        (
+                        )
+
+                    [children:ProtocolNode:private] => Array
+                        (
+                            [0] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274094-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [1] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274094-2
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [2] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274200-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [3] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274200-2
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [4] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274449-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [5] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274449-2
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [6] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274565-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [7] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424274565-2
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                            [8] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424275963-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                        )
+
+                    [data:ProtocolNode:private] => 
+                )
+
+        )
+
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424465824-1
+            [offline] => 0
+            [t] => 1424466284
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424465824-2
+            [offline] => 0
+            [t] => 1424466284
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424465824-2
+            [offline] => 0
+            [t] => 1424469105
+        )
+
+    [children] => Array
+        (
+            [0] => ProtocolNode Object
+                (
+                    [tag:ProtocolNode:private] => list
+                    [attributeHash:ProtocolNode:private] => Array
+                        (
+                        )
+
+                    [children:ProtocolNode:private] => Array
+                        (
+                            [0] => ProtocolNode Object
+                                (
+                                    [tag:ProtocolNode:private] => item
+                                    [attributeHash:ProtocolNode:private] => Array
+                                        (
+                                            [id] => message-1424465824-1
+                                        )
+
+                                    [children:ProtocolNode:private] => 
+                                    [data:ProtocolNode:private] => 
+                                )
+
+                        )
+
+                    [data:ProtocolNode:private] => 
+                )
+
+        )
+
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424809126-1
+            [offline] => 0
+            [t] => 1424809126
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424809250-1
+            [offline] => 0
+            [t] => 1424809250
+        )
+
+    [children] => 
+    [data] => 
+)
+Array
+(
+    [tag] => receipt
+    [attributeHash] => Array
+        (
+            [from] => 380999760371@s.whatsapp.net
+            [id] => message-1424809250-2
+            [offline] => 0
+            [t] => 1424809250
+        )
+
+    [children] => 
+    [data] => 
+)
